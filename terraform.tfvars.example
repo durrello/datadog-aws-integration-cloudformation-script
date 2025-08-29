@@ -1,0 +1,5 @@
+aws_region      = "us-east-1"
+stack_name      = "datadog-integration-sdggdgdfdf"
+bucket_name     = "datadog-integration-ggaagsdfsdfs"
+datadog_api_key = "2bd31211c8d83e2285sdsadsdftedads"
+datadog_app_key = "418d6a5036c25e8a7c0a9tjajkldfdskufj567ewr"
